@@ -1,0 +1,21 @@
+Rank,Pandemics,Min Estimation Death (Million),Max Estimation of Death (Million),Min Death Rate,Max Death Rate,Start Date,End Date,Location
+1,Black Death,75,200,17,54,1346,1353,"Europe, Asia, and North Africa"
+2,Spanish Flu,17,100,1,5.5,1918,1920,Worldwide
+3,Justinian Plague ,15,100,7,50,541,549,"North Africa, Europe and West Asia"
+4,HIV/AIDS,40.1,40.1,0.6,0.6,1981,2023,Worldwide
+5,COVID-19,6,28,0.1,0.4,2019,2023,Worldwide
+6,Third Plague,12,15,0.4,0.5,1855,1960,Worldwide
+7,Cocoliztli,5,15,1,3,1545,1548,Mexico
+8,Antonine Plague,5,10,3,6,165,180,Roman Empire
+9,Mexico Smallpox,5,8,1,2,1519,1520,Mexico
+10,Russia Typhus,2,3,0.1,0.16,1918,1922,Russia
+11,InFluenza ,1,4,0.03,0.1,1957,1958,Worldwide
+12,Hong Kong Flu,1,4,0.03,0.1,1968,1969,Worldwide
+13,Cocoliztliof 1576,2,2.5,0.4,0.5,1576,1580,Mexico
+14,Japanese Smallpox ,2,2,1,1,735,737,Japan
+15,Persian Plague,2,2,0.2,0.2,1772,1773,Persia
+16,Naples Plague,1.25,1.5,0.2,0.3,1656,1658,Southern Italy
+17,Cholera,1,2,0.08,0.16,1846,1860,Worldwide
+18,Italian Plague,1,2,0.2,0.4,1629,1631,Italy
+19,Flu,1,2,0.07,0.15,1889,1890,Worldwide
+20,Total,194.35,541.1,1.758421053,6.582631579,165,2023,Worldwide
